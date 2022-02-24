@@ -1,1 +1,1 @@
-# Persian-English-Scene-text-Dataset-PESTD-dataset--version-1.0-
+# Persian-English Scene text Dataset (PESTD dataset- version 1.0)
